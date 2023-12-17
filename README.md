@@ -1,2 +1,2 @@
 # Rouba_Monte_Linguagem_C
- Trabalho feito utilizando conceitos de estruturas de dados em C, use pilhas e listas dinamicas.
+Trabalho feito usando a linguagem de programacao C, o trabalho consistia em implementar a logica do jogo rouba montes, onde tem uma pilha de cartas de compra, as cartas de descarte do baralho viradas pra cima, etc., este trabalho foi feito utilizando os conceitos de estruturas de dados em C, usei pilhas e listas dinamicas para estruturar e realizar as jogadas.
